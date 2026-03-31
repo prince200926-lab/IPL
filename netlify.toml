@@ -1,4 +1,4 @@
 [build]
     base = "client"
-    command = "npm run build"
+    command = "npm install && npm run dev"
     publish = "dist"
